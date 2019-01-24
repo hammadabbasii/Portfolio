@@ -1,5 +1,3 @@
-My portfolio.
-
 ## Hammad Abbasi
     • Six Years of Experience in PHP/Web development with good conceptual, analytical and decision making skills.
     • Strong sense of system architecture Mobile/Web Applications. 
